@@ -21,6 +21,18 @@ html,body{
     align-items:center;
 }
 
+.content p{
+    font-size: 1.4rem;
+}
+
+.content a{
+    color:rgb(21, 21, 83);
+    text-decoration: none;
+    font-size: 2rem;
+    padding-right:1rem;
+    align-items: center;
+}
+
 .calculator{
     width: fit-content;
     position: absolute;
